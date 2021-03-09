@@ -30,7 +30,7 @@
     "method-override": "^3.0.0",
     "mongoose": "5.11.19",
     "mongoose-lean-defaults": "^0.4.1",
-    "mongoose-lean-getters": "^0.1.2",
+    "mongoose-lean-getters": "^0.2.0",
     "mongoose-lean-virtuals": "^0.7.6",
     "mongoose-schema-jsonschema": "^1.4.4",
     "morgan": "^1.10.0",
